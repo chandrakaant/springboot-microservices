@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/movie-catalog-service/movie-catalog-service.iml" filepath="$PROJECT_DIR$/movie-catalog-service/movie-catalog-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/movie-info-service/movie-into-service.iml" filepath="$PROJECT_DIR$/movie-info-service/movie-into-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rating-data-service/rating-data-service.iml" filepath="$PROJECT_DIR$/rating-data-service/rating-data-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/springboot-microservices.iml" filepath="$PROJECT_DIR$/.idea/springboot-microservices.iml" />
     </modules>
   </component>

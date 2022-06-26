@@ -1,13 +1,13 @@
-package io.microservice.movieintoservice;
+package io.microservice.ratingdataservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MovieIntoServiceApplication {
+public class RatingDataServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MovieIntoServiceApplication.class, args);
+		SpringApplication.run(RatingDataServiceApplication.class, args);
 	}
 
 }
